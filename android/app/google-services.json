@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062738603974",
+    "project_id": "vision-9451c",
+    "storage_bucket": "vision-9451c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062738603974:android:a14ddd68872a91bc328cc7",
+        "android_client_info": {
+          "package_name": "com.autobonics.vision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062738603974-v394mbaeg87eqg1rqgk6i4ilqkhjong1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCBQxdt2b5z63UzZRIj9n3un1hvqh5rDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062738603974-v394mbaeg87eqg1rqgk6i4ilqkhjong1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
